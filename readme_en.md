@@ -5,7 +5,7 @@
 This script is designed to conveniently delete unnecessary folders with maps in Counter-Strike 2 (CS2). It automatically finds folders with files `publish_data.txt `, extracts the names of the maps and displays them in a user-friendly graphical interface (GUI). You can easily select the cards that are no longer needed and delete them along with the contents.
 
 ## Important warning ⚠️
-Before using this script, make sure that ** you have unsubscribed from the cards that you plan to delete**! Otherwise, the Steam client may download these maps again at the next CS2 update.
+Before using this script, make sure that **you have unsubscribed from the cards that you plan to delete**! Otherwise, the Steam client may download these maps again at the next CS2 update.
 
 > Please note: even after deleting the cards, this process may repeat when updating CS2, if they are still listed in your subscriptions.
 
@@ -20,11 +20,11 @@ Before using this script, make sure that ** you have unsubscribed from the cards
 ## Installation and launch
 
 Using
-Run the script. A graphical interface will appear with the heading "Deleting folders".
+Run the script. A graphical interface will appear with the heading "Удаление папок".
 The window will display a list of found folders containing the file publish_data.txt , along with the name of the map.
 Select the folders to delete:
 Click on the desired maps to highlight them for deletion.
-Click on the "Delete selected folders" button.
+Click on the "Удалить выбранные папки" button.
 Confirm the deletion in the pop-up window. The selected folders will be deleted along with the contents.
   
 SteamLibrary\steamapps\workshop\content\730\  
