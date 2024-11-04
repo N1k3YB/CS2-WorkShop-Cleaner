@@ -48,7 +48,7 @@ def create_gui(folders):
     global listbox
 
     root = tk.Tk()
-    root.title("Удаление папок")
+    root.title("CS2 WSC")
 
     tk.Label(root, text="Список папок с title:").pack()
 
