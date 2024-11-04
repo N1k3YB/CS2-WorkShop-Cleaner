@@ -19,7 +19,7 @@ Before using this script, make sure that **you have unsubscribed from the cards 
 
 ## Installation and launch
 
-Using
+Using:  
 Run the script. A graphical interface will appear with the heading "Удаление папок".
 The window will display a list of found folders containing the file publish_data.txt , along with the name of the map.
 Select the folders to delete:
