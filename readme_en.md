@@ -26,14 +26,10 @@ Select the folders to delete:
 Click on the desired maps to highlight them for deletion.
 Click on the "Удалить выбранные папки" button.
 Confirm the deletion in the pop-up window. The selected folders will be deleted along with the contents.
-  
+
+The path for the script:  
 SteamLibrary\steamapps\workshop\content\730\  
-├── 32141512  
-│   └── publish_data.txt  
-├── 312551212  
-│   └── publish_data.txt  
-└── 21231125  
-    └── publish_data.txt  
+  
 When you run the script in a folder, the interface will show folders with maps (in the form of their IDs) and the names of the maps. Mark the unnecessary cards and confirm the deletion.
 
 ## Note
