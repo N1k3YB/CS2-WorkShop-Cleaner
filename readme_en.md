@@ -1,3 +1,5 @@
+[Сменить на Русский](https://github.com/N1k3YB/CS2-WorkShop-Cleaner/blob/main/readme.md)
+
 # CS2 Map Cleanup Script
 
 This script is designed to conveniently delete unnecessary folders with maps in Counter-Strike 2 (CS2). It automatically finds folders with files `publish_data.txt `, extracts the names of the maps and displays them in a user-friendly graphical interface (GUI). You can easily select the cards that are no longer needed and delete them along with the contents.
